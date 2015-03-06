@@ -19,8 +19,8 @@ Since they were fascinated by unified modeling language (UML), they want our tea
 PReMS will be an Android application that provides a user interface for management of customer, purchase and related discount information. By using this system, stall manager can save user information, display user's purchase record, and user's discount condition. The system will automatically determine user's discount according to purchase history and sent email to reminder customer about their discount. User can display summary of user's payment and rewards. 
 
 In the future version we may 
--allow customer to decide when and how much they would like to use their discount
--allow user to add and edit more different discount level
+>-allow customer to decide when and how much they would like to use their discount
+>-allow user to add and edit more different discount level
 
 ## 4 Major Features (Optional)
 
@@ -32,8 +32,8 @@ In the future version we may
 *The Scope and Limitations section is where you talk about what is, and in particular, what is not included. This is where you tactfully tell your boss that his pet feature is not going to be included.*
 The initial version of PReMS will focus on management of customer's transaction and related discount
 . The software will not have features to 
--set account and password for user/stall manager. 
--save customer's security information of credit card, such as: security code. 
+>-set account and password for user/stall manager. 
+>-save customer's security information of credit card, such as: security code. 
 
 
 
