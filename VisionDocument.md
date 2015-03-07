@@ -25,15 +25,12 @@ In the future version we may
 ## 4 Major Features (Optional)
 
 *Here you outline the features at a high level (a detailed feature outline belongs in the requirements document.) Some people prefer to outline features in the above Product/Solution Overview section, which is also a fine approach. Whatever you do, keep it to bullet points, not paragraphs. If you can use pictures, such as mockups, even better.*
-![Customer](Customer.png)
 
 <img src="PReMS.png" width="250"/><img src="Customer.png" width="250"/><img src="Purchase.png" width="250"/>
 
 ## 5 Scope and Limitations
 
-*The Scope and Limitations section is where you talk about what is, and in particular, what is not included. This is where you tactfully tell your boss that his pet feature is not going to be included.*
-The initial version of PReMS will focus on management of customer's transaction and related discount
-. The software will not have features to 
+The initial version of PReMS will focus on management of customer and their transaction and related discount. The software will not have features to 
 - set account and password for user/stall manager. 
 - save customer's security information of credit card, such as: security code. 
 
