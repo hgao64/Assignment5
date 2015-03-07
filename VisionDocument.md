@@ -27,7 +27,7 @@ In the future version we may
 *Here you outline the features at a high level (a detailed feature outline belongs in the requirements document.) Some people prefer to outline features in the above Product/Solution Overview section, which is also a fine approach. Whatever you do, keep it to bullet points, not paragraphs. If you can use pictures, such as mockups, even better.*
 ![Customer](Customer.png)
 
-<img src="Customer.png" width="250"/><img src="Customer.png" width="250"/><img src="Customer.png" width="250"/>
+<img src="PReMS.png" width="250"/><img src="Customer.png" width="250"/><img src="Purchase.png" width="250"/>
 
 ## 5 Scope and Limitations
 
