@@ -7,33 +7,31 @@
 
 ### 1.1 Assumptions
 
-* The Payment and Reward Management System (PReMS) is designed to run on android operating system
-*The stall manager is the only user using PReMS.
-*All the transaction made by the customers are done through credit card.
-*All the transaction by one customer are made using single credit card.
-*The credit card is scanned with the help of credit card scanner which is attached to the computer system.
-*Credit card transaction are processed through a third party payment processing service provider.
-*Internet service will be used to establish connectivity between stall manager and customers(send emails to customers). 
+* The Payment and Reward Management System (PReMS) is designed to run on android operating system.
+* The stall manager is the only user of PReMS.
+* All transactions made by the customers are done through credit card.
+* All transactions by a specific customer are made using a single credit card.
+* The credit card is scanned with the help of a credit card scanner which is attached to the computer system.
+* Credit card transactions are processed through a third party payment processing service provider.
+* Internet service will be used to establish connectivity between stall manager and customers (manager will send notification emails to the customers). 
 
 
 ### 1.2 Constraints
 
-*Since PReMS allows transaction using only credit card, cash can not be accepted for any purchase.
-*Customer can use only one credit card for all his/her purchase/transaction.
-*At this point, PReMS is designed to be used by sinle user. Multiple users can not use PReMS.
-*PReMS can only be installed on the systems supporting android OS.
-*If the internet connection breaks, system is unable to make the connectivity between stall manager and customers.
+* Since PReMS allows transactions using only credit card, cash cannot be accepted for any purchase.
+* Customers can use only one credit card for all their transactions.
+* At this point, PReMS is designed to be used by a single user. Multiple users cannot use PReMS.
+* PReMS can only be installed on the systems supporting android OS.
+* If the internet connection breaks, system is unable to make the connectivity between stall manager and customers.
 
 ### 1.3 System Environment
 
-*System on which PReMS application will be running must support android operating system.
-*Credit card scanner must be attached to the system which is capable of scanning the credit card.
-*System's hardware must be capable to connect with a payment-processing service provider that can process credit card transactions.
-*Internet connection must be available for the system to send the emails to the customers.
+* System on which PReMS application will be running must support android operating system.
+* Credit card scanner must be attached to the computer system.
+* System's hardware must be capable to connect with a payment-processing service provider that can process credit card transactions.
+* Internet connection must be available for the system to send emails to the customers.
 
 ## 2 Architectural Design
-
-*The architecture provides the high-level design view of a system and provides a basis for more detailed design work. These subsections describe the top-level components of the system you are building and their relationships.*
 
 ### 2.1 Component Diagram
 
@@ -55,25 +53,21 @@ There are three support components, the Payment Processor, Credit Card Scanner a
 
 ### 2.2 Deployment Diagram
 
-*This section should describe how the different components will be deployed on actual hardware devices. Similar to the previous subsection, this diagram may be unnecessary for simple systems; in these cases, simply state so and concisely state why.*
-
 ## 3 Low-Level Design
-
-*Describe the low-level design for each of the system components identified in the previous section. For each component, you should provide details in the following UML diagrams to show its internal structure.*
 
 ### 3.1 Class Diagram
 
-*In the case of an OO design, the internal structure of a software component would typically be expressed as a UML class diagram that represents the static class structure for the component and their relationships.*
+<img src="ClassDiagram.jpeg" width="640" height="480"/>
+
+
 
 ### 3.2 Other Diagrams
 
-*<u>Optionally</u>, you can decide to describe some dynamic aspects of your system using one or more behavioral diagrams, such as sequence and state diagrams.*
 
 ## 4 User Interface Design
- <img src="UIdiagram1.jpeg" width="640" height="480"/>
+ <img src="UIdiagram1.jpeg" width="640" height="830"/>
 
-<img src="UIdiagram2.jpeg" width="640" height="480"/>
-
+<img src="UIdiagram2.jpeg" width="640" height="830"/>
 
 
 
