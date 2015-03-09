@@ -53,6 +53,7 @@ Poonam Phate
 - QA Manager is responsible for formal QA processes, ensuring that the team is using industry-accepted best practices and oversee all aspects of quality assurance including establishing metrics, applying industry best practices, and developing new tools and processes to ensure quality goals are met.
 
 | Team member 	|Roles|
+| :----------------- | :----------------- |
 | Jie Yang 	    |Project Manager|
 | Eric Zollinger 	|Documentation Lead|
 | Huihui Duan 	|Development Lead, tester|
