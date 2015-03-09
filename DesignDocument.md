@@ -57,7 +57,7 @@ There are three support components, the Payment Processor, Credit Card Scanner a
 
 ### 3.1 Class Diagram
 
-<img src="ClassDiagram.jpeg" width="640" height="480"/>
+<img src="ClassDiagram.jpg" width="640" height="480"/>
 
 
 
@@ -65,9 +65,9 @@ There are three support components, the Payment Processor, Credit Card Scanner a
 
 
 ## 4 User Interface Design
- <img src="UIdiagram1.jpeg" width="640" height="830"/>
+ <img src="UIdiagram1.jpg" width="640" height="830"/>
 
-<img src="UIdiagram2.jpeg" width="640" height="830"/>
+<img src="UIdiagram2.jpg" width="640" height="830"/>
 
 
 
