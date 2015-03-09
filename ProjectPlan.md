@@ -41,7 +41,7 @@ Project is to develop an Android app that implements the payment and rewards man
 
 
 ## 3 Team  
-### **3.1 Team members' names
+### **3.1 Team members' names**
 Huihui Duan 
 Hui Gao 
 Alexandra Jie Yang 
