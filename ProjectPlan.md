@@ -52,12 +52,12 @@ Poonam Phate
 - Developer Lead is to guide team development efforts towards successful project delivery and maintain high standards of software quality within the team by establishing good practices and habits.
 - QA Manager is responsible for formal QA processes, ensuring that the team is using industry-accepted best practices and oversee all aspects of quality assurance including establishing metrics, applying industry best practices, and developing new tools and processes to ensure quality goals are met.
 
-|Team member 	|Roles|
-|Jie Yang 	    |Project Manager|
-|Eric Zollinger 	|Documentation Lead|
-|Huihui Duan 	|Development Lead, tester|
-|Hui Gao 	    |QA Manager, developer, tester|
-|Poonam Phate 	|Documentation, developer|
+| Team member 	|Roles|
+| Jie Yang 	    |Project Manager|
+| Eric Zollinger 	|Documentation Lead|
+| Huihui Duan 	|Development Lead, tester|
+| Hui Gao 	    |QA Manager, developer, tester|
+| Poonam Phate 	|Documentation, developer|
 
 ## 4 Estimates  
 - Effort hours: 60 hours are expected to spend on this project. 
