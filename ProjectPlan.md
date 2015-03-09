@@ -41,17 +41,20 @@ Project is to develop an Android app that implements the payment and rewards man
 
 
 ## 3 Team  
+### **3.1 Team members' names
 Huihui Duan 
 Hui Gao 
 Alexandra Jie Yang 
 Eric Zollinger 
 Poonam Phate 
 
+### **3.2 Team member's roles**
 - Project manager is responsible for the overall project deliverables, from defining the project outline to defining the tasks and timelines.
 - Documentation Lead is responsible for creating, updating documentation of requirements.
 - Developer Lead is to guide team development efforts towards successful project delivery and maintain high standards of software quality within the team by establishing good practices and habits.
 - QA Manager is responsible for formal QA processes, ensuring that the team is using industry-accepted best practices and oversee all aspects of quality assurance including establishing metrics, applying industry best practices, and developing new tools and processes to ensure quality goals are met.
 
+### **3.3 Role assignment for team members**
 | Team member 	|Roles|
 | :----------------- | :----------------- |
 | Jie Yang 	    |Project Manager|
